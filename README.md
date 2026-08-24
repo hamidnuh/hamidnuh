@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hamid Nuh
 
-<!--
-**hamidnuh/hamidnuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer & Automation Specialist building reliable digital systems for businesses and agencies.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WordPress development, redesigns, performance, integrations, and technical SEO implementation
+- Custom web apps and business software with Next.js, React, Node.js, APIs, and databases
+- n8n, API integrations, workflow automation, and AI-enabled systems
+- Technical delivery and white-label support for agencies
+
+## Selected Work
+
+Most client, research, and internal development work is kept private.
+
+**Portfolio:** https://hamidnuh.com/portfolio/
+
+## GFX Hawker
+
+Founder of **GFX Hawker**, helping agencies and established businesses build, improve, and automate the digital systems they depend on.
+
+https://gfxhawker.com
