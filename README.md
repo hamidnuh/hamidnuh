@@ -180,11 +180,11 @@ The agency can remain client-facing while I support the technical execution.
 
 Role-specific resume versions:
 
-* [Full-Stack Web Application Developer](./Resumes/Hamid-Nuh-Full-Stack-Web-Application-Developer.pdf)
-* [WordPress & Web Developer](./Resumes/Hamid-Nuh-WordPress-Web-Developer.pdf)
-* [AI Automation & n8n Specialist](./Resumes/Hamid-Nuh-AI-Automation-n8n-Specialist.pdf)
-* [Master Technical Resume](./Resumes/Hamid-Nuh-Master-Technical-Resume.pdf)
-* [Social Media Manager](./Resumes/Hamid-Nuh-Social-Media-Manager.pdf)
+* [Full-Stack Web Application Developer](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Full-Stack-Web-Application-Developer.pdf)
+* [WordPress & Web Developer](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-WordPress-Web-Developer.pdf)
+* [AI Automation & n8n Specialist](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-AI-Automation-n8n-Specialist.pdf)
+* [Master Technical Resume](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Master-Technical-Resume.pdf)
+* [Social Media Manager](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Social-Media-Manager.pdf)
 
 ## Selected Work
 
