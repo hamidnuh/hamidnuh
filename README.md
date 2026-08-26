@@ -176,16 +176,6 @@ I also work with agencies that need:
 
 The agency can remain client-facing while I support the technical execution.
 
-## Resumes
-
-Role-specific resume versions:
-
-* [Full-Stack Web Application Developer](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Full-Stack-Web-Application-Developer.pdf)
-* [WordPress & Web Developer](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-WordPress-Web-Developer.pdf)
-* [AI Automation & n8n Specialist](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-AI-Automation-n8n-Specialist.pdf)
-* [Master Technical Resume](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Master-Technical-Resume.pdf)
-* [Social Media Manager](https://raw.githubusercontent.com/hamidnuh/hamidnuh/main/Resumes/Hamid-Nuh-Social-Media-Manager.pdf)
-
 ## Selected Work
 
 Most source code remains private, but selected completed work and project explanations are available here:
